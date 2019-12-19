@@ -1,0 +1,41 @@
+{
+  "name": "@itzsaga/use-lazy-pagination",
+  "version": "0.1.0",
+  "description": "Apollo useLazyQuery bi-directional pagination hook.",
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "unpkg": "dist/index.umd.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itzsaga/use-lazy-pagination.git"
+  },
+  "keywords": [
+    "apollo",
+    "graphql",
+    "hooks",
+    "lib",
+    "pagination",
+    "react",
+    "react-hooks"
+  ],
+  "author": "Seth Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itzsaga/use-lazy-pagination/issues"
+  },
+  "homepage": "https://github.com/itzsaga/use-lazy-pagination#readme",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "microbundle": "^0.11.0",
+    "prettier": "^1.19.1",
+    "react": "^16.12.0"
+  }
+}
