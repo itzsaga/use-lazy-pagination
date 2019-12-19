@@ -4,7 +4,7 @@
   "description": "Apollo useLazyQuery bi-directional pagination hook.",
   "source": "src/index.ts",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/index.m.js",
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
   "scripts": {
