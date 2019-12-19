@@ -42,7 +42,7 @@ Note: `goForward` expects a single argument of the `endCursor` provided in the `
 ```javascript
 import React from "react";
 import { useLazyQuery } from "@apollo/react-hooks";
-import { useLazyPagination } from "@itzsaga/use-lazy-pagination";
+import useLazyPagination from "@itzsaga/use-lazy-pagination";
 
 function App() {
   const [ queryPosts, { data, error, loading } ] = useLazyQuery(QUERY_POSTS);
