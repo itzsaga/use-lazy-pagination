@@ -79,7 +79,7 @@ The app is available as open source under the terms of the [MIT License][license
 [greenkeeper-image]: https://badges.greenkeeper.io/itzsaga/use-lazy-pagination.svg
 [greenkeeper-link]: https://greenkeeper.io/
 [npm-version-image]: https://badge.fury.io/js/%40itzsaga%2Fuse-lazy-pagination.svg
-[npm-version-link]: https://badge.fury.io/js/%40itzsaga%2use-lazy-pagination
+[npm-version-link]: https://badge.fury.io/js/%40itzsaga%2Fuse-lazy-pagination
 [inspiration]: https://engineering.dubsmash.com/bi-directional-pagination-using-graphql-relay-b523c919c96
 [repo-url]: https://github.com/itzsaga/use-lazy-pagination
 [contributing]: ./CONTRIBUTING.md
