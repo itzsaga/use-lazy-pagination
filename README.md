@@ -21,10 +21,6 @@ $ yarn add @itzsaga/use-lazy-pagination
 The hook expects a single argument, the query function returned from the `@apollo/react-hooks` `useLazyQuery` hook.
 
 ```javascript
-import { useLazyQuery } from "@apollo/react-hooks";
-
-const [queryPosts, { data, error, loading }] = useLazyQuery(QUERY_POSTS);
-
 const { goBack, goForward } = useLazyPagination(queryPosts);
 ```
 
