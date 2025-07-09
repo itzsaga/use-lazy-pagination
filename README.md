@@ -1,6 +1,6 @@
 # @itzsaga/use-lazy-pagination
 
-[![Greenkeeper badge][greenkeeper-image]][greenkeeper-link] [![npm version][npm-version-image]][npm-version-link]
+[![npm version][npm-version-image]][npm-version-link]
 
 Bi-directional pagination hook for use in React using GraphQL & the Relay cursor-based pagination. Expecting an Apollo `useLazyQuery` function. Thanks to a [blog post][inspiration] by Tim Specht for the inspiration.
 
